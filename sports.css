@@ -34,6 +34,8 @@
     font-size: 15px;
     line-height: 30px;
     margin-top: 40px;
+    text-align: justify;
+    max-width: 380px;
 }
 
 
@@ -211,6 +213,7 @@
     line-height: 30px;
     font-size: 20px;
     margin: 35px;
+    text-align: justify;
 }
 
 .start-running-today-no-3-text-1 {
@@ -220,6 +223,7 @@
     font-weight: bold;
     font-size: 16px;
     margin: 38px;
+    text-align: justify;
 }
 
 .start-running-today-no-3-text-2 {
@@ -288,6 +292,7 @@
     color: rgb(253, 253, 253);
     font-size: 16px;
     margin-top: 30px;
+    text-align: justify;
 
 }
 
@@ -353,6 +358,7 @@
     color: rgb(253, 253, 253);
     font-size: 16px;
     margin-top: 30px;
+    text-align: justify;
 
 }
 
@@ -418,7 +424,7 @@
     color: rgb(253, 253, 253);
     font-size: 16px;
     margin-top: 30px;
-
+    text-align: justify;
 }
 
 .SUPPORT-button {
@@ -483,7 +489,7 @@
     color: rgb(253, 253, 253);
     font-size: 16px;
     margin-top: 30px;
-
+    text-align: justify;
 }
 
 .RATINGS-button {
@@ -620,10 +626,12 @@
     color: #999999 !important;
     /* width: 537px; */
     margin-top: 30px;
+    text-align: justify;
 }
 
 .SOLO-WORKOUT {
     margin-top: 40px;
+    text-align: justify;
 }
 
 .SOLO-WORKOUT-text-1 {
@@ -633,6 +641,7 @@
 .SOLO-WORKOUT-text-2 {
     color: #999999 !important;
     margin-top: 30px;
+    text-align: justify;
 }
 
 .ONLINE {
@@ -646,6 +655,7 @@
 .ONLINE-text-2 {
     color: #999999 !important;
     margin-top: 30px;
+    text-align: justify;
 }
 
 .ONLINE-text-button {
@@ -769,12 +779,14 @@
     max-width: 487px;
     font-size: 45px;
     padding: 20px;
+
 }
 
 .Memberships-as-low-text-2 {
     color: rgb(37, 37, 37);
     max-width: 487px;
     padding: 20px;
+    text-align: justify;
 
 }
 
